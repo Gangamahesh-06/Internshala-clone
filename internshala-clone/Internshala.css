@@ -1,0 +1,91 @@
+.internshala-logo{
+    width: 120px;
+    height: auto;
+}
+
+.search-button{
+    width: 50%;
+}
+
+.card-container {
+    background-color: white;
+    border-bottom-right-radius: 8px;
+    border-bottom-left-radius: 8px;
+    margin: 24px;
+    padding: 50px;
+}
+
+.Header{
+    color: #0f0e46;
+    font-size: 30px;
+    font-weight: bold;
+    padding: 30px;
+}
+
+.para{
+    color: #000000;
+    font-size: 23px;
+    padding-left: 30px;
+}
+.menu-item-link {
+    color: blue;
+    font-size: 25px;
+    font-weight: 500;
+    margin-left: 800px;
+}
+
+.img1 {
+    float: left;
+    width: 18%;
+    text-align: center;
+    height: 150px;
+}
+
+.img2 {
+    float: left;
+    width: 30%;
+    text-align: center;
+    height: 150px;
+}
+
+footer ul {
+    list-style: none;
+}
+
+footer ul li {
+    margin-top: 10px;
+    font-size: 120%;
+}
+
+footer {
+    background-color: #202020;
+    color: #E0E0E0;
+    height: 475px;
+    margin-top: 200px;
+}
+
+footer .l1 {
+    float: left;
+    width: 20%;
+    margin-left: 5%;
+}
+
+.fmain {
+    border-bottom: 1px solid white;
+    height: 400px;
+    margin-left: 5%;
+    margin-right: 5%;
+}
+
+.searchbutton {
+    height: 55px;
+    
+    color: white;
+}
+
+.item-link {
+    color: blue;
+    font-size: 25px;
+    font-weight: 500;
+    margin-left: 80vw;
+}
